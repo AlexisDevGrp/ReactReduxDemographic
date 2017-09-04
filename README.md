@@ -1,23 +1,23 @@
 # ReactReduxDemographic
 Une applications donnant des informations sur le taux de mortalité par pays pour les hommes et les femmes
 
-# ReactReduxPosts
+# ReactReduxDemographic
 
 ### Tu as git ? ###
 
 ```
-> git clone git@github.com:RobinLebhar/ReactReduxPosts.git
+> git clone git@github.com:RobinLebhar/ReactReduxDemographic.git
 
 ```
 
 ### Sinon ###
 
-Télécharge le zip ici : https:github.com/RobinLebhar/ReactReduxPosts/archive/master.zip
+Télécharge le zip ici : https:github.com/RobinLebhar/ReactReduxDemographic/archive/master.zip
 	
 	
 ### Dans tous les cas : ###
 ```
-	> cd ReactReduxPosts
+	> cd ReactReduxDemographic
 	> npm install
 	> npm start
 ```
